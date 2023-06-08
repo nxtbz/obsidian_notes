@@ -99,3 +99,48 @@ If you're cracking hashes in single crack mode, you need to change the file form
 **To**
 
 mike:1efee03cdcb96d90ad48ccc7b8666033
+
+### Custom Rules
+
+#### Common Custom Rules
+- Capital letter
+- Number
+- Symbol
+- [1..10]
+- [a-z]
+- [A-Z]
+checkout the documentation: https://www.openwall.com/john/doc/RULES.shtml
+
+We then need to define what characters should be appended, prepended or otherwise included, we do this by adding character sets in square brackets `[ ]` in the order they should be used. These directly follow the modifier patterns inside of double quotes `" "`. Here are some common examples:
+
+
+```
+--rules=<custom-flag> 
+
+```
+
+
+
+### ZIP2JOHN / RAR2JOHN
+password crack zip files
+
+first
+```
+`zip2john [options] [zip file] > [output file]`
+
+#example
+zip2john my_secure_zip_file.zip > hashed_password.txt
+```
+
+than 
+```
+john --wordlist=<wl> hashed_password.txt
+```
+
+
+
+#### SSH2John
+
+Who could have guessed it, another conversion tool? Well, that's what working with John is all about. As the name suggests ssh2john converts the id_rsa private key that you use to login to the SSH session into hash format that john can work with. Jokes aside, it's another beautiful example of John's versatility. The syntax is about what you'd expect. Note that if you don't have ssh2john installed, you can use ssh2john.py, which is located in the /opt/john/ssh2john.py. If you're doing this, replace the `ssh2john` command with `python3 /opt/ssh2john.py` or on Kali, `python /usr/share/john/ssh2john.py`.
+
+`ssh2john [id_rsa private key file] > [output file]`
