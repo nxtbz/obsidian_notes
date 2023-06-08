@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OTW/Levels 1-10.md",
+                "file": "TOOLS/bettercap.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OTW/Levels 1-10.md",
+                "file": "TOOLS/bettercap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OTW/Levels 1-10.md",
+                "file": "TOOLS/bettercap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OTW/Levels 1-10.md"
+                "file": "TOOLS/bettercap.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "36897fe34b3d391f",
   "lastOpenFiles": [
+    "OTW/Levels 1-10.md",
+    "TOOLS/bettercap.md",
     "readme.md",
     "TOOLS/Linpeas.md",
     "TOOLS/Hydra.md",
@@ -171,7 +173,6 @@
     "THM/Rick'n Morty.md",
     "TOOLS",
     "CTF",
-    "OTW/Levels 1-10.md",
     "TOOLS/nmap.md",
     "TOOLS/metasploit.md",
     "Try Hack Me.canvas",
