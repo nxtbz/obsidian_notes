@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "OTW/Levels 1-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "OTW/Levels 1-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "OTW/Levels 1-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "OTW/Levels 1-10.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "36897fe34b3d391f",
   "lastOpenFiles": [
+    "readme.md",
     "TOOLS/Linpeas.md",
     "TOOLS/Hydra.md",
-    "readme.md",
     "TOOLS/John The Password ripper.md",
     "readme.md~",
     "TOOLS/Encryption.md",
