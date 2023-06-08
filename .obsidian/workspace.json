@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "adc5a6f59d335a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f874057e39842a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe1dac41481fa82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOOLS/Encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36897fe34b3d391f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOOLS/John The Password ripper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3376a69c6647a0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a8ac7f785d3634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc75dfa577920810",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e4ef4575af1010c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2352d98fd1bdce79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae993ada9d822d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "75f4acea6bf66dd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd319d4d8c2a7b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TOOLS/John The Password ripper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee438dc1a0ddb618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TOOLS/John The Password ripper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27314ff64deffc72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52e15f25e6c12461",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOOLS/John The Password ripper.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36897fe34b3d391f",
+  "lastOpenFiles": [
+    "TOOLS/Encryption.md",
+    "TOOLS/hash id.md",
+    "THM/Rick'n Morty.md",
+    "TOOLS",
+    "CTF",
+    "TOOLS/John The Password ripper.md",
+    "OTW/Levels 1-10.md",
+    "TOOLS/nmap.md",
+    "TOOLS/metasploit.md",
+    "Try Hack Me.canvas",
+    "TOOLS/NFS.md",
+    "THM",
+    "OTW",
+    "2023-05-13.md"
+  ]
+}
