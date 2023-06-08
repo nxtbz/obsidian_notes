@@ -228,6 +228,53 @@ cat data9
 
 
 
+#### level 14
+
+The password for the next level is stored in **/etc/bandit_pass/bandit14 and can only be read by user bandit14**. For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. **Note:** **localhost** is a hostname that refers to the machine you are working on
+
+
+```
+quite easy one, 
+ls -la 
+> ssh_keyfile.private
+
+$ ssh bandit14@localhost -p 2220 -i ssh_keyfile.private 
+>bandit14@locahost: 
+$ cat /etc/bandit_password/bandit14.txt
+```
+
+
+#### level 14
+
+The password for the next level can be retrieved by submitting the password of the current level to **port 30000 on localhost**.
+
+```
+# nmap localhost, port 3000 has a secure backup service or something
+Not shown: 993 closed ports
+PORT      STATE SERVICE
+22/tcp    open  ssh
+1111/tcp  open  lmsocialserver
+1840/tcp  open  netopia-vo2
+4321/tcp  open  rwhois
+8000/tcp  open  http-alt
+8888/tcp  open  sun-answerbook
+30000/tcp open  ndmps
+
+#quick google says we can use netcat to pipe a string into it
+$ echo "<the previous password" | nc localhost 30000
+>Correct!
+>jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+
+
+
+```
+
+#### level 15
+
+The password for the next level can be retrieved by submitting the password of the current level to **port 30001 on localhost** using SSL encryption.
+
+**Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof and read the “CONNECTED COMMANDS” section in the manpage. Next to ‘R’ and ‘Q’, the ‘B’ command also works in this version of that command…**
+
 
 #### level 11
 #### level 11
@@ -250,11 +297,9 @@ cat data9
 #### level 11
 #### level 11
 #### level 11
-#### level 11
-#### level 11
-#### level 11
 
-
+bandit15 jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+bandit14 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 bandit13 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 bandit12 JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 bandit11 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
