@@ -1,4 +1,11 @@
 
+
+
+1. `python -c 'import pty;pty.spawn("/bin/bash")'`
+2. `export TERM=xterm`
+3. Background the shell using Ctrl + Z. Back in our own terminal we use `stty raw -echo; fg`
+
+
 ## option A
 After receiving reversed shell you can stabalize the shell if python is installed
 

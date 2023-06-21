@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/xfreerdp - rdp.md",
+                "file": "TOOLS/LinEnum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1b5902f3f37dc1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abusing SUID GUID Files.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/xfreerdp - rdp.md",
+                "file": "Abusing SUID GUID Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/xfreerdp - rdp.md",
+                "file": "Abusing SUID GUID Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/xfreerdp - rdp.md"
+                "file": "Abusing SUID GUID Files.md"
               }
             }
           }
@@ -159,14 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36897fe34b3d391f",
+  "active": "e1b5902f3f37dc1f",
   "lastOpenFiles": [
+    "TOOLS/LinEnum.md",
+    "Abusing SUID GUID Files.md",
+    "TOOLS/SHELLS/Stable Shell.md",
+    "TOOLS/RDP xfreerdp -.md",
     "TOOLS/SHELLS/Untitled.md",
     "TOOLS/SHELLS/reverse shell.md",
     "php-reverse-shell.php~",
     "php-reverse-powershell.php",
-    "TOOLS/xfreerdp - rdp.md",
-    "TOOLS/SHELLS/Stable Shell.md",
     "TOOLS/SHELLS",
     "TOOLS/SHELLS/Webshell.md",
     "TOOLS/SHELLS/Bind shell.md",
