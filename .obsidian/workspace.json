@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "36897fe34b3d391f",
+            "id": "13e7fa30b7270efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/LinEnum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1b5902f3f37dc1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abusing SUID GUID Files.md",
+                "file": "Exploiting PATH Variable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abusing SUID GUID Files.md",
+                "file": "Exploiting PATH Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abusing SUID GUID Files.md",
+                "file": "Exploiting PATH Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abusing SUID GUID Files.md"
+                "file": "Exploiting PATH Variable.md"
               }
             }
           }
@@ -171,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1b5902f3f37dc1f",
+  "active": "13e7fa30b7270efa",
   "lastOpenFiles": [
+    "TOOLS/Encryption.md",
+    "Exploiting PATH Variable.md",
     "TOOLS/LinEnum.md",
     "Abusing SUID GUID Files.md",
+    "escaping VI.md",
+    "GTFO Bins.md",
+    "Exploiting a writable etc passwd.md",
     "TOOLS/SHELLS/Stable Shell.md",
     "TOOLS/RDP xfreerdp -.md",
     "TOOLS/SHELLS/Untitled.md",
@@ -202,12 +195,8 @@
     "readme.md",
     "TOOLS/Linpeas.md",
     "TOOLS/Hydra.md",
-    "TOOLS/Encryption.md",
     "TOOLS/hash id.md",
     "THM/Rick'n Morty.md",
-    "TOOLS/metasploit.md",
-    "Try Hack Me.canvas",
-    "TOOLS/NFS.md",
-    "2023-05-13.md"
+    "Try Hack Me.canvas"
   ]
 }

@@ -38,7 +38,9 @@ rwx-rws-rwx
 
 **Finding SUID Binaries**  
 
- if we want to do this manually we can use the command: **"find / -perm -u=s -type f 2>/dev/null**
+if we want to do this manually we can use the command: 
+` find / -perm -u=s -type f 2>/dev/null `
+
 
 **Find** - Initiates the "find" command  
 
