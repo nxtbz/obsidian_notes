@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "723aea56bb4fb081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "service exploits (msql4).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e62e6e1802f60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "etc shadow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploiting PATH Variable.md",
+                "file": "etc shadow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploiting PATH Variable.md",
+                "file": "etc shadow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploiting PATH Variable.md"
+                "file": "etc shadow.md"
               }
             }
           }
@@ -159,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13e7fa30b7270efa",
+  "active": "18e62e6e1802f60b",
   "lastOpenFiles": [
-    "TOOLS/Encryption.md",
+    "service exploits (msql4).md",
+    "etc shadow.md",
     "Exploiting PATH Variable.md",
+    "TOOLS/Encryption.md",
     "TOOLS/LinEnum.md",
     "Abusing SUID GUID Files.md",
     "escaping VI.md",
@@ -195,8 +221,6 @@
     "readme.md",
     "TOOLS/Linpeas.md",
     "TOOLS/Hydra.md",
-    "TOOLS/hash id.md",
-    "THM/Rick'n Morty.md",
     "Try Hack Me.canvas"
   ]
 }
