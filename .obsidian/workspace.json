@@ -37,26 +37,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "service exploits (msql4).md",
+                "file": "!!! LD preload.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "18e62e6e1802f60b",
+            "id": "933583c0f9a1889f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc shadow.md",
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b9999ca9a2fa10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUID SGID find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6f0c20c0982c838",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee9a4d8e53db34d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulnversity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc shadow.md",
+                "file": "SUID SGID find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etc shadow.md",
+                "file": "SUID SGID find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etc shadow.md"
+                "file": "SUID SGID find.md"
               }
             }
           }
@@ -183,8 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18e62e6e1802f60b",
+  "active": "b9b9999ca9a2fa10",
   "lastOpenFiles": [
+    "vulnversity.md",
+    "SUID SGID find.md",
+    "history file.md",
+    "STRACE find.md",
+    "readme.md",
+    "!!! LD preload.md",
     "service exploits (msql4).md",
     "etc shadow.md",
     "Exploiting PATH Variable.md",
@@ -212,15 +250,9 @@
     "readlist/Interresting reads and tools.md",
     "readlist",
     "TOOLS/bettercap.md",
-    "TOOLS/SHELLS/netcat NC.md",
-    "TOOLS/nmap.md",
-    "TOOLS/John The Password ripper.md",
     "nmap/blue",
     "nmap",
     "plain.txt",
-    "readme.md",
-    "TOOLS/Linpeas.md",
-    "TOOLS/Hydra.md",
     "Try Hack Me.canvas"
   ]
 }
