@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfe1dac41481fa82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/Encryption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13e7fa30b7270efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploiting PATH Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "723aea56bb4fb081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!!! LD preload.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "933583c0f9a1889f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b9b9999ca9a2fa10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUID SGID find.md",
+                "file": "Abusing SUID GUID Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnversity.md",
+                "file": "THM/vulnversity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUID SGID find.md",
+                "file": "THM/vulnversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUID SGID find.md",
+                "file": "THM/vulnversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUID SGID find.md"
+                "file": "THM/vulnversity.md"
               }
             }
           }
@@ -215,20 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b9999ca9a2fa10",
+  "active": "ee9a4d8e53db34d3",
   "lastOpenFiles": [
-    "vulnversity.md",
+    "Abusing SUID GUID Files.md",
+    "nmap.init",
     "SUID SGID find.md",
+    "readme.md",
+    "TOOLS/Encryption.md",
+    "Exploiting PATH Variable.md",
+    "!!! LD preload.md",
+    "THM/vulnversity.md",
     "history file.md",
     "STRACE find.md",
-    "readme.md",
-    "!!! LD preload.md",
     "service exploits (msql4).md",
     "etc shadow.md",
-    "Exploiting PATH Variable.md",
-    "TOOLS/Encryption.md",
     "TOOLS/LinEnum.md",
-    "Abusing SUID GUID Files.md",
     "escaping VI.md",
     "GTFO Bins.md",
     "Exploiting a writable etc passwd.md",
@@ -249,10 +202,8 @@
     "TOOLS/legion.md",
     "readlist/Interresting reads and tools.md",
     "readlist",
-    "TOOLS/bettercap.md",
     "nmap/blue",
     "nmap",
-    "plain.txt",
     "Try Hack Me.canvas"
   ]
 }

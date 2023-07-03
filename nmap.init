@@ -1,0 +1,1 @@
+# Nmap 7.93 scan initiated Thu Jun 29 08:52:41 2023 as: nmap -A -sC -sV -T4 -oN nmap.init 10.10.24.33
