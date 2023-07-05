@@ -17,3 +17,7 @@ SUID / SGID Executables - Abusing Shell Features (#2)
 [ ] tmux (sharing sessions over different terminals)
 [ ] stabalized shell techniques  
 [ ] customizing shells / quake / gnome on Kali 
+
+
+## Handy sh*t*
+`kill -9 $(pgrep -f openvpn)`
