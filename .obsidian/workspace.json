@@ -180,8 +180,8 @@
   },
   "active": "fd228c9f4d2c3738",
   "lastOpenFiles": [
-    "TOOLS/hydra.md",
     "TOOLS/Hydra.md",
+    "TOOLS/hydra.md",
     "TOOLS/impacket.md",
     "TOOLS/evil-winrm.md",
     "TOOLS/smbclient.md",
