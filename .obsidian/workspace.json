@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f874057e39842a0f",
+        "id": "a78cf40a786a1bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "fd228c9f4d2c3738",
+            "id": "173bdede08a784d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/Hydra.md",
+                "file": "TOOLS/hydra.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f9db8f6a4a585777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PICOctf2022/picoCTF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99818a75b6a66ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/evil-winrm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba3f94476dfe2a96",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Hydra.md",
+                "file": "TOOLS/hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/Hydra.md",
+                "file": "TOOLS/hydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Hydra.md"
+                "file": "TOOLS/hydra.md"
               }
             }
           }
@@ -178,24 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd228c9f4d2c3738",
+  "active": "173bdede08a784d6",
   "lastOpenFiles": [
+    "Untitled.md",
     "TOOLS/hydra.md",
     "TOOLS/impacket.md",
+    "TOOLS/hash id.md",
+    "hydra-new.md",
     "TOOLS/Hydra.md",
-    "TOOLS/evil-winrm.md",
     "TOOLS/smbclient.md",
-    "active directory.md",
+    "TOOLS/kerbrute.md",
+    "TOOLS/evil-winrm.md",
     "PICOctf2022/picoCTF.md",
-    "Abusing SUID GUID Files.md",
-    "PICOctf2022",
     "escaping VI.md",
+    "active directory.md",
+    "PICOctf2022",
+    "picoCTF.md",
+    "hydra.md",
+    "Abusing SUID GUID Files.md",
     "XML.md",
     "SUID SGID find.md",
     "STRACE find.md",
     "service exploits (msql4).md",
     "etc shadow.md",
-    "TOOLS/kerbrute.md",
     "readme.md",
     "THM/vulnversity.md",
     "nmap.init",
@@ -203,11 +176,6 @@
     "Exploiting PATH Variable.md",
     "!!! LD preload.md",
     "history file.md",
-    "TOOLS/LinEnum.md",
-    "GTFO Bins.md",
-    "Exploiting a writable etc passwd.md",
-    "TOOLS/SHELLS/Stable Shell.md",
-    "TOOLS/RDP xfreerdp -.md",
     "php-reverse-shell.php~",
     "php-reverse-powershell.php",
     "TOOLS/SHELLS",
