@@ -47,12 +47,8 @@
             "id": "ba3f94476dfe2a96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/hydra.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -184,10 +180,12 @@
   },
   "active": "fd228c9f4d2c3738",
   "lastOpenFiles": [
+    "TOOLS/hydra.md",
+    "TOOLS/Hydra.md",
+    "TOOLS/impacket.md",
     "TOOLS/evil-winrm.md",
     "TOOLS/smbclient.md",
     "active directory.md",
-    "TOOLS/impacket.md",
     "PICOctf2022/picoCTF.md",
     "Abusing SUID GUID Files.md",
     "PICOctf2022",
@@ -196,7 +194,6 @@
     "SUID SGID find.md",
     "STRACE find.md",
     "service exploits (msql4).md",
-    "TOOLS/hydra.md",
     "etc shadow.md",
     "TOOLS/kerbrute.md",
     "readme.md",
@@ -211,7 +208,6 @@
     "Exploiting a writable etc passwd.md",
     "TOOLS/SHELLS/Stable Shell.md",
     "TOOLS/RDP xfreerdp -.md",
-    "TOOLS/SHELLS/Untitled.md",
     "php-reverse-shell.php~",
     "php-reverse-powershell.php",
     "TOOLS/SHELLS",
