@@ -37,3 +37,13 @@ mysql> select user_pass from wp_users;
 | `$P$BChcsKNRBt/xESBuIlEYi6LbrbMmpZ/` |
 | `$P$BgZe6pyobiM/0bUzmR4/dP9vjCKe.7/`|
 +------------------------------------+
+
+
+oud: -> GAhI8u()j4Y&KKWoOAGpLvfX
+
++------------------------------------+
+| user_pass                          |
++------------------------------------+
+| `$P$BChcsKNRBt/xESBuIlEYi6LbrbMmpZ/` |
+| `$P$BtHdLRkOszDBSwliB4SRB142gPCcDg.` |
++------------------------------------+
