@@ -21,3 +21,19 @@ SUID / SGID Executables - Abusing Shell Features (#2)
 
 ## Handy sh*t*
 `kill -9 $(pgrep -f openvpn)`
+
+DBK Hash
+`hashcat -O -m 400 -a 0 -o cracked.txt sample.txt rockyou.txt`
+
+sample: `$P$984478476IagS59wHZvyQMArzfx58u.`
+
+hash: `$P$BChcsKNRBt/xESBuIlEYi6LbrbMmpZ/`
+
+
+mysql> select user_pass from wp_users;
++------------------------------------+
+| user_pass                          |
++------------------------------------+
+| `$P$BChcsKNRBt/xESBuIlEYi6LbrbMmpZ/` |
+| `$P$BgZe6pyobiM/0bUzmR4/dP9vjCKe.7/`|
++------------------------------------+
