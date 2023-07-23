@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration with Server Manager.md",
+                "file": "TOOLS/FFuF.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration with Server Manager.md",
+                "file": "TOOLS/FFuF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration with Server Manager.md",
+                "file": "TOOLS/FFuF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration with Server Manager.md"
+                "file": "TOOLS/FFuF.md"
               }
             }
           }
@@ -197,8 +197,29 @@
   },
   "active": "f9fbbbc53fa8cd2c",
   "lastOpenFiles": [
-    "Maintaining acces.md",
+    "readme.md",
+    "TOOLS/FFuF.md",
+    "ffuf/ffuf",
+    "ffuf/pkg/scraper/util.go",
+    "ffuf/pkg/scraper/scraper.go",
+    "ffuf/pkg/runner/simple.go",
+    "ffuf/pkg/runner/runner.go",
+    "ffuf/pkg/output/stdout.go",
+    "ffuf/pkg/output/output.go",
+    "ffuf/pkg/output/file_md.go",
+    "ffuf/pkg/output/file_json.go",
+    "ffuf/pkg/output/file_html.go",
+    "ffuf/_img/offsec-logo.png",
+    "ffuf/_img/ffuf_waving_250.png",
+    "ffuf/_img/ffuf_running_250.png",
+    "ffuf/_img/ffuf_run_logo_600.png",
+    "ffuf/_img/ffuf_mascot_600.png",
+    "ffuf/_img/ffuf_juggling_250.png",
+    "ffuf/README.md",
+    "ffuf/CONTRIBUTORS.md",
+    "ffuf/CHANGELOG.md",
     "Enumeration with Server Manager.md",
+    "Maintaining acces.md",
     "Post-Exploitation Basics.md",
     "bloodhound.md",
     "Powerview.md",
@@ -221,21 +242,6 @@
     "TOOLS/smbclient.md",
     "TOOLS/kerbrute.md",
     "TOOLS/evil-winrm.md",
-    "PICOctf2022/picoCTF.md",
-    "escaping VI.md",
-    "active directory.md",
-    "PICOctf2022",
-    "picoCTF.md",
-    "hydra.md",
-    "nmap.init",
-    "php-reverse-shell.php~",
-    "php-reverse-powershell.php",
-    "TOOLS/SHELLS",
-    "php-reverse-shell.php",
-    "php-backdoor.php~",
-    "php-backdoor.php",
-    "readlist",
-    "nmap/blue",
     "Try Hack Me.canvas"
   ]
 }
