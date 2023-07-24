@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a78cf40a786a1bc2",
+        "id": "6ecf61ae79ef3370",
         "type": "tabs",
         "children": [
           {
-            "id": "173bdede08a784d6",
+            "id": "142fd4deb37f1d36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f472d7b1ea2b6ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/hydra.md",
+                "file": "investigate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/hydra.md",
+                "file": "investigate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/hydra.md",
+                "file": "investigate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/hydra.md"
+                "file": "investigate.md"
               }
             }
           }
@@ -146,36 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "173bdede08a784d6",
+  "active": "f472d7b1ea2b6ba0",
   "lastOpenFiles": [
-    "Untitled.md",
-    "TOOLS/hydra.md",
-    "TOOLS/impacket.md",
-    "TOOLS/hash id.md",
-    "hydra-new.md",
-    "TOOLS/Hydra.md",
-    "TOOLS/smbclient.md",
-    "TOOLS/kerbrute.md",
+    "investigate.md",
     "TOOLS/evil-winrm.md",
     "PICOctf2022/picoCTF.md",
-    "escaping VI.md",
+    "readme.md",
+    "TOOLS/hydra.md",
+    "hydra-new.md",
+    "TOOLS/Hydra.md",
+    "TOOLS/impacket.md",
+    "TOOLS/smbclient.md",
     "active directory.md",
-    "PICOctf2022",
-    "picoCTF.md",
-    "hydra.md",
     "Abusing SUID GUID Files.md",
+    "PICOctf2022",
+    "escaping VI.md",
     "XML.md",
     "SUID SGID find.md",
     "STRACE find.md",
     "service exploits (msql4).md",
     "etc shadow.md",
-    "readme.md",
+    "TOOLS/kerbrute.md",
     "THM/vulnversity.md",
     "nmap.init",
     "TOOLS/Encryption.md",
     "Exploiting PATH Variable.md",
     "!!! LD preload.md",
     "history file.md",
+    "TOOLS/LinEnum.md",
+    "GTFO Bins.md",
+    "Exploiting a writable etc passwd.md",
     "php-reverse-shell.php~",
     "php-reverse-powershell.php",
     "TOOLS/SHELLS",
