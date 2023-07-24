@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e1eb748efe830725",
+        "id": "6ecf61ae79ef3370",
         "type": "tabs",
         "children": [
           {
-            "id": "07ed0b27d2a688dd",
+            "id": "142fd4deb37f1d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post-Exploitation Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9fbbbc53fa8cd2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/FFuF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5432f7440649111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maintaining acces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceb5444bcac17a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powerview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b3ba7300513f116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bloodhound.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/FFuF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/FFuF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TOOLS/FFuF.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,53 +138,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9fbbbc53fa8cd2c",
+  "active": "142fd4deb37f1d36",
   "lastOpenFiles": [
-    "readme.md",
-    "TOOLS/FFuF.md",
-    "ffuf/ffuf",
-    "ffuf/pkg/scraper/util.go",
-    "ffuf/pkg/scraper/scraper.go",
-    "ffuf/pkg/runner/simple.go",
-    "ffuf/pkg/runner/runner.go",
-    "ffuf/pkg/output/stdout.go",
-    "ffuf/pkg/output/output.go",
-    "ffuf/pkg/output/file_md.go",
-    "ffuf/pkg/output/file_json.go",
-    "ffuf/pkg/output/file_html.go",
-    "ffuf/_img/offsec-logo.png",
-    "ffuf/_img/ffuf_waving_250.png",
-    "ffuf/_img/ffuf_running_250.png",
-    "ffuf/_img/ffuf_run_logo_600.png",
-    "ffuf/_img/ffuf_mascot_600.png",
-    "ffuf/_img/ffuf_juggling_250.png",
-    "ffuf/README.md",
-    "ffuf/CONTRIBUTORS.md",
-    "ffuf/CHANGELOG.md",
-    "Enumeration with Server Manager.md",
-    "Maintaining acces.md",
-    "Post-Exploitation Basics.md",
-    "bloodhound.md",
-    "Powerview.md",
+    "investigate.md",
     "kerberos backdoor.md",
+    "ffuf",
+    "bloodhound.md",
+    "TOOLS/FFuF.md",
     "Rubeus.md",
+    "Powerview.md",
+    "Post-Exploitation Basics.md",
     "Pasted image 20230713135226.png",
     "Pasted image 20230713135211.png",
     "Pasted image 20230712073741.png",
     "Mimikatz pass ticket.md",
+    "Maintaining acces.md",
     "Kerbrute.md",
     "Kerberos.md",
     "Kerberoasting.md",
     "Gold Silver Ticket.md",
+    "Enumeration with Server Manager.md",
     "AS-REP Roasting.md",
+    "TOOLS/evil-winrm.md",
+    "PICOctf2022/picoCTF.md",
+    "readme.md",
     "TOOLS/hydra.md",
-    "TOOLS/impacket.md",
-    "TOOLS/hash id.md",
     "hydra-new.md",
     "TOOLS/Hydra.md",
+    "TOOLS/impacket.md",
     "TOOLS/smbclient.md",
-    "TOOLS/kerbrute.md",
-    "TOOLS/evil-winrm.md",
+    "active directory.md",
+    "Abusing SUID GUID Files.md",
+    "PICOctf2022",
+    "escaping VI.md",
+    "nmap.init",
+    "php-reverse-shell.php~",
+    "php-reverse-powershell.php",
+    "TOOLS/SHELLS",
+    "php-reverse-shell.php",
+    "php-backdoor.php~",
+    "php-backdoor.php",
+    "readlist",
     "Try Hack Me.canvas"
   ]
 }
